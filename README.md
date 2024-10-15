@@ -110,5 +110,4 @@ Git и GitHub
 
 Начало работы с Git (через командную строку) смотрим здесь:
 - [githowto](https://githowto.com/ru): пошаговое обучение от git
-- [скринкаст](https://youtu.be/piq5dSX7hL0), ссылка из скринкаста для создания вашего личного [токена](https://github.com/settings/tokens/new)
 - [Oh my Git!](https://ohmygit.org/) (игра по Git)
