@@ -27,7 +27,7 @@
 <tr>
 <td>4</td>
 <td>2 ноября 2024</td>
-<td>Работа с файлами, модуль os</td>
+<td><a href='https://github.com/AnnSenina/Python_CL_2024/blob/main/notebooks/Python_4_os%2C_files.ipynb'>Работа с файлами, модуль os</a></td>
 <tr>
 <td>5</td>
 <td>13 ноября 2024</td>
