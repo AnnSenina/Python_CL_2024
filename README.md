@@ -31,7 +31,7 @@
 <tr>
 <td>5</td>
 <td>13 ноября 2024</td>
-<td>Работа с функциями, методы</td>
+<td><a href='https://github.com/AnnSenina/Python_CL_2024/blob/main/notebooks/Python_5_Function.ipynb'>Работа с функциями</a>, <a href='https://github.com/AnnSenina/Python_CL_2024/blob/main/notebooks/Python_6_%D0%A8%D0%BF%D0%B0%D1%80%D0%B3%D0%B0%D0%BB%D0%BA%D0%B0_%D0%BF%D0%BE_%D0%BC%D0%B5%D1%82%D0%BE%D0%B4%D0%B0%D0%BC.ipynb'>методы</a></td>
 <tr>
 <td>6</td>
 <td>18 ноября 2024</td>
