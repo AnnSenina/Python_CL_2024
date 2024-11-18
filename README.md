@@ -35,7 +35,7 @@
 <tr>
 <td>6</td>
 <td>18 ноября 2024</td>
-<td>Регулярные выражения, препроцессинг</td>
+<td><a href='https://github.com/AnnSenina/Python_CL_2024/blob/main/notebooks/Python_7_regex.ipynb'>Регулярные выражения, препроцессинг</a></td>
 <tr>
 <td>7</td>
 <td>20 ноября 2024</td>
