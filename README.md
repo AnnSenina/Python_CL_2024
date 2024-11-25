@@ -43,7 +43,7 @@
 <tr>
 <td>8</td>
 <td>25 ноября 2024</td>
-<td>pandas, работа с датасетами</td>
+<td><a href='https://github.com/AnnSenina/Python_CL_2024/blob/main/notebooks/Python_9_pandas.ipynb'>pandas, работа с датасетами</a></td>
 <tr>
 <td>9</td>
 <td>2 декабря 2024</td>
