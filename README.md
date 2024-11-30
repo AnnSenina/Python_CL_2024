@@ -46,8 +46,8 @@
 <td><a href='https://github.com/AnnSenina/Python_CL_2024/blob/main/notebooks/Python_9_pandas.ipynb'>pandas, работа с датасетами</a></td>
 <tr>
 <td>9</td>
-<td><a href='https://github.com/AnnSenina/Python_CL_2024/blob/main/notebooks/Python_10_pymorphy%2C_mystem.ipynb'>30 ноября 2024</a></td>
-<td>pymorphy, mystem и др</td>
+<td>30 ноября 2024</td>
+<td><a href='https://github.com/AnnSenina/Python_CL_2024/blob/main/notebooks/Python_10_pymorphy%2C_mystem.ipynb'>pymorphy, mystem и др</a></td>
 <tr>
 <td>10</td>
 <td>7 декабря 2024</td>
