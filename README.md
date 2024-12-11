@@ -55,7 +55,7 @@
 <tr>
 <td>11</td>
 <td>11 декабря 2024</td>
-<td>собираем корпус: парсеры,краулеры,скрепперы</td>
+<td><a href='https://github.com/AnnSenina/Python_CL_2024/blob/main/notebooks/Python_12_BeautifulSoup.ipynb'>собираем корпус: парсеры,краулеры,скрепперы</a></td>
 <tr>
 <td>12</td>
 <td>18 декабря 2024</td>
