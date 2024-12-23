@@ -63,7 +63,7 @@
 <tr>
 <td>13</td>
 <td>23 декабря 2024</td>
-<td>Пользовательские интерфейсы</td>
+<td>Пользовательские интерфейсы: <a htef='https://github.com/AnnSenina/Python_CL_2024/blob/main/notebooks/Python_14_%D0%9F%D1%80%D0%BE%D1%81%D1%82%D1%8B%D0%B5_%D0%B1%D0%BE%D1%82%D1%8B_tg_2024.ipynb'>боты</a>, <a href='https://github.com/AnnSenina/Python_CL_2024/blob/main/notebooks/Python_14_tkinter.ipynb'>tkinter,</a></td>
 <tr>
 <td>14</td>
 <td>январь 2025</td>
