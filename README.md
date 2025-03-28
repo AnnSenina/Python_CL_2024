@@ -66,8 +66,8 @@
 <td>Пользовательские интерфейсы: <a href='https://github.com/AnnSenina/Python_CL_2024/blob/main/notebooks/Python_14_%D0%9F%D1%80%D0%BE%D1%81%D1%82%D1%8B%D0%B5_%D0%B1%D0%BE%D1%82%D1%8B_tg_2024.ipynb'>боты</a>, <a href='https://github.com/AnnSenina/Python_CL_2024/blob/main/notebooks/Python_14_tkinter.ipynb'>tkinter,</a></td>
 <tr>
 <td>14</td>
-<td>январь 2025</td>
-<td>numpy, pandas к машинному обучению</td>
+<td>март 2025</td>
+<td><a href='https://github.com/AnnSenina/Python_CL_2024/blob/main/notebooks/1_NumPy.ipynb'>numpy</a>, <a href='https://github.com/AnnSenina/Python_CL_2024/blob/main/notebooks/2_pandas.ipynb'>pandas</a> к машинному обучению</td>
 <tr>
 <td>15-...</td>
 <td>январь 2025 (слоты)</td>
